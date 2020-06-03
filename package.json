@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "The ESLint plugin for atomic-react",
   "main": "index.js",
+  "scripts": {
+    "build": "",
+    "test": ""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/threatgrid/eslint-config-atomic-react.git"
