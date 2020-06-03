@@ -1,0 +1,19 @@
+{
+  "name": "@cisco-ats/eslint-config-atomic-react",
+  "version": "0.1.0",
+  "description": "The ESLint plugin for atomic-react",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threatgrid/eslint-config-atomic-react.git"
+  },
+  "author": "Anton Frattaroli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threatgrid/eslint-config-atomic-react/issues"
+  },
+  "homepage": "https://github.com/threatgrid/eslint-config-atomic-react#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
