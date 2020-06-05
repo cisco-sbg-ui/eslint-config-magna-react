@@ -46,6 +46,7 @@ module.exports = {
     APanelHeader: true,
     APanelTitle: true,
     APopover: true,
+    AProgressbar: true,
     ARadio: true,
     ARow: true,
     ASelect: true,
