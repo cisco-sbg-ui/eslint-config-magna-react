@@ -17,6 +17,7 @@ module.exports = {
     ACombobox: true,
     AContainer: true,
     AContextualNotification: true,
+    AContextualNotificationMenu: true,
     ADialog: true,
     ADivider: true,
     ADotLoader: true,
