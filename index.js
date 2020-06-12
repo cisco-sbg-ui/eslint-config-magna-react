@@ -39,6 +39,7 @@ module.exports = {
     AListItemContent: true,
     AListItemSubtitle: true,
     AListItemTitle: true,
+    AMenu: true,
     AMenuBase: true,
     APageLoader: true,
     APanel: true,
