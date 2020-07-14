@@ -18,6 +18,7 @@ module.exports = {
     AContainer: true,
     AContextualNotification: true,
     AContextualNotificationMenu: true,
+    ADataTable: true,
     ADialog: true,
     ADivider: true,
     ADotLoader: true,
