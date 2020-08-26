@@ -72,6 +72,7 @@ module.exports = {
     ATimelineItemBody: true,
     ATimelineItemTitle: true,
     ATheme: true,
+    AToast: true,
     ATooltip: true,
     ATree: true,
     useATheme: true,

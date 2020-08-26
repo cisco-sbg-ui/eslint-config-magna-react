@@ -1,6 +1,6 @@
 {
   "name": "@cisco-ats/eslint-config-atomic-react",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "The ESLint plugin for atomic-react",
   "main": "index.js",
   "scripts": {
