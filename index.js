@@ -76,6 +76,7 @@ module.exports = {
     ATooltip: true,
     ATree: true,
     useATheme: true,
+    useAToaster: true,
   },
   rules: {
     "react/jsx-no-undef": [2, { allowGlobals: true }],
