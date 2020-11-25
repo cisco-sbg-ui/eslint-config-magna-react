@@ -9,6 +9,7 @@ module.exports = {
     AApp: true,
     AAutocomplete: true,
     ABadge: true,
+    ABreadcrumb: true,
     AButton: true,
     AButtonGroup: true,
     ACheckbox: true,
