@@ -80,6 +80,7 @@ module.exports = {
     AToast: true,
     ATooltip: true,
     ATree: true,
+    useABreakpoint: true,
     useATheme: true,
     useAToaster: true,
   },
