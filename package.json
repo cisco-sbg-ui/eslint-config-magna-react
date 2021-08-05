@@ -1,23 +1,27 @@
 {
-  "name": "@cisco-ats/eslint-config-atomic-react",
-  "version": "0.1.16",
+  "name": "@cisco-sbg-ui/eslint-config-atomic-react",
+  "version": "1.0.0",
   "description": "The ESLint plugin for atomic-react",
   "main": "index.js",
   "scripts": {
     "build": "",
+    "publish-package": "npm publish",
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/threatgrid/eslint-config-atomic-react.git"
+    "url": "git+https://github.com/cisco-sbg-ui/eslint-config-atomic-react.git"
   },
   "author": "Anton Frattaroli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/threatgrid/eslint-config-atomic-react/issues"
+    "url": "https://github.com/cisco-sbg-ui/eslint-config-atomic-react/issues"
   },
-  "homepage": "https://github.com/threatgrid/eslint-config-atomic-react#readme",
+  "homepage": "https://atomic-react.security.cisco.com",
   "peerDependencies": {
     "eslint": ">= 3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/cisco-sbg-ui"
   }
 }
