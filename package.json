@@ -6,7 +6,7 @@
   "scripts": {
     "build": "",
     "publish-package": "npm publish",
-    "test": ""
+    "test": "eslint . --max-warnings 0"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/cisco-sbg-ui"
+  },
+  "devDependencies": {
+    "eslint": "8.3.0",
+    "eslint-plugin-anti-trojan-source": "1.0.6"
   }
 }
