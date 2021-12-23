@@ -27,6 +27,7 @@ module.exports = {
     ADialog: true,
     ADivider: true,
     ADotLoader: true,
+    AFeatureDiscovery: true,
     AFieldBase: true,
     AFooter: true,
     AFooterLegal: true,
