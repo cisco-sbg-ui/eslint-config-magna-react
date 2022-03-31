@@ -40,6 +40,7 @@ module.exports = {
     AHeaderNavigation: true,
     AHint: true,
     AIcon: true,
+    AInView: true,
     AInputBase: true,
     AList: true,
     AListItem: true,

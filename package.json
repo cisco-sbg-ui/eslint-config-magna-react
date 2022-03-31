@@ -1,6 +1,6 @@
 {
   "name": "@cisco-sbg-ui/eslint-config-atomic-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The ESLint plugin for atomic-react",
   "main": "index.js",
   "scripts": {
