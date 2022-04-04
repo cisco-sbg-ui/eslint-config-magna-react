@@ -89,6 +89,7 @@ module.exports = {
     ATree: true,
     useAAutoTheme: true,
     useABreakpoint: true,
+    useADateRange: true,
     useATheme: true,
     useAToaster: true,
   },
