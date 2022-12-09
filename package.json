@@ -1,6 +1,6 @@
 {
   "name": "@cisco-sbg-ui/eslint-config-magna-react",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "The ESLint plugin for magna-react",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/cisco-sbg-ui/eslint-config-magna-react/issues"
   },
-  "homepage": "https://magna-react.security.cisco.com",
+  "homepage": "https://magna-react.vercel.app/",
   "peerDependencies": {
     "eslint": ">= 3"
   },
