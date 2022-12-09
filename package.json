@@ -1,7 +1,7 @@
 {
-  "name": "@cisco-sbg-ui/eslint-config-atomic-react",
+  "name": "@cisco-sbg-ui/eslint-config-magna-react",
   "version": "1.0.5",
-  "description": "The ESLint plugin for atomic-react",
+  "description": "The ESLint plugin for magna-react",
   "main": "index.js",
   "scripts": {
     "build": "",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cisco-sbg-ui/eslint-config-atomic-react.git"
+    "url": "git+https://github.com/cisco-sbg-ui/eslint-config-magna-react.git"
   },
   "author": "Anton Frattaroli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cisco-sbg-ui/eslint-config-atomic-react/issues"
+    "url": "https://github.com/cisco-sbg-ui/eslint-config-magna-react/issues"
   },
-  "homepage": "https://atomic-react.security.cisco.com",
+  "homepage": "https://magna-react.security.cisco.com",
   "peerDependencies": {
     "eslint": ">= 3"
   },
