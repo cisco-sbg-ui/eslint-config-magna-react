@@ -16,6 +16,7 @@ module.exports = {
     AButtonCardBody: true,
     AButtonCardTitle: true,
     AButtonGroup: true,
+    ACard: true,
     ACheckbox: true,
     ACiscoLoader: true,
     ACol: true,
@@ -64,8 +65,11 @@ module.exports = {
     ASelect: true,
     ASimpleTable: true,
     ASkeleton: true,
+    ASkeletonBlock: true,
+    ASkeletonText: true,
     ASlider: true,
     ASpacer: true,
+    ASpinner: true,
     AStep: true,
     AStepper: true,
     AStepTitle: true,
@@ -98,7 +102,7 @@ module.exports = {
     useMediaQuery: true,
     useOutsideClick: true,
     usePopupQuickExit: true,
-    useToggle: true
+    useToggle: true,
   },
   rules: {
     "react/jsx-no-undef": [2, { allowGlobals: true }],
