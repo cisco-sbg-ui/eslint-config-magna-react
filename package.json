@@ -1,6 +1,6 @@
 {
   "name": "@cisco-sbg-ui/eslint-config-magna-react",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The ESLint plugin for magna-react",
   "main": "index.js",
   "scripts": {
